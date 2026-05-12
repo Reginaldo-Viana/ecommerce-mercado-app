@@ -7,7 +7,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "ecommerce-digital": {
+    "ecommerce-mercado-app": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
