@@ -53,6 +53,6 @@ Após o deploy (aprox. 2-3 min): `https://SEU_USUARIO.github.io/ecommerce-digita
 ## Build de produção
 
 ```bash
-npm run build -- --base-href=/ecommerce-digital/
+npm run build -- --base-href=/ecommerce-mercado-app/
 ```
-# ecommerce-digital
+# ecommerce-mercado-app
