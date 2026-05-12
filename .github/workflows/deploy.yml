@@ -31,13 +31,13 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build -- --base-href=/ecommerce-digital/
+        run: npm run build -- --base-href=/ecommerce-mercado-app/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Garanta que este caminho está correto após o build
-          path: ./dist/ecommerce-digital/browser
+          path: ./dist/ecommerce-mercado-app/browser
 
   deploy:
     environment:
