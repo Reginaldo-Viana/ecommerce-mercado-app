@@ -36,7 +36,7 @@ Acesse: `http://localhost:4200`
 git init
 git add .
 git commit -m "feat: initial MercadoApp project"
-git remote add origin https://github.com/SEU_USUARIO/ecommerce-digital.git
+git remote add origin https://github.com/SEU_USUARIO/ecommerce-mercado-app.git
 git push -u origin main
 ```
 
