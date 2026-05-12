@@ -1,0 +1,8 @@
+[
+  { "id": "eletronicos", "name": "Eletrônicos", "icon": "devices", "color": "#1565C0" },
+  { "id": "moda", "name": "Moda", "icon": "checkroom", "color": "#6A1B9A" },
+  { "id": "casa", "name": "Casa & Jardim", "icon": "home", "color": "#2E7D32" },
+  { "id": "esportes", "name": "Esportes", "icon": "fitness_center", "color": "#E65100" },
+  { "id": "livros", "name": "Livros", "icon": "menu_book", "color": "#4E342E" },
+  { "id": "beleza", "name": "Beleza", "icon": "spa", "color": "#880E4F" }
+]

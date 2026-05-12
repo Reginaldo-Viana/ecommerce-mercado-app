@@ -1,0 +1,25 @@
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-brand">
+      <mat-icon>storefront</mat-icon>
+      <span>MercadoApp</span>
+    </div>
+
+    <div class="footer-links">
+      <a routerLink="/">Início</a>
+      <a routerLink="/produtos">Produtos</a>
+      <a routerLink="/carrinho">Carrinho</a>
+    </div>
+
+    <div class="footer-categories">
+      <a routerLink="/produtos" [queryParams]="{categoria: 'eletronicos'}">Eletrônicos</a>
+      <a routerLink="/produtos" [queryParams]="{categoria: 'moda'}">Moda</a>
+      <a routerLink="/produtos" [queryParams]="{categoria: 'casa'}">Casa</a>
+      <a routerLink="/produtos" [queryParams]="{categoria: 'esportes'}">Esportes</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; {{ currentYear }} MercadoApp. Projeto demonstrativo Angular.</p>
+  </div>
+</footer>

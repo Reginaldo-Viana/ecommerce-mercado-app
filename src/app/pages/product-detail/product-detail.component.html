@@ -1,0 +1,140 @@
+@if (loading()) {
+  <div class="loading-center">
+    <mat-spinner diameter="56"></mat-spinner>
+  </div>
+} @else if (product()) {
+  <div class="detail-page">
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+      <a routerLink="/">Início</a>
+      <mat-icon>chevron_right</mat-icon>
+      <a routerLink="/produtos" [queryParams]="{categoria: product()!.category}">
+        {{ product()!.category | titlecase }}
+      </a>
+      <mat-icon>chevron_right</mat-icon>
+      <span>{{ product()!.name }}</span>
+    </div>
+
+    <div class="detail-container">
+      <!-- Galeria -->
+      <div class="gallery">
+        <div class="main-image-wrapper">
+          <img [src]="selectedImage()" [alt]="product()!.name" class="main-image" />
+          @if (product()!.discount > 0) {
+            <div class="discount-badge">-{{ product()!.discount }}%</div>
+          }
+        </div>
+        <div class="thumbnails">
+          @for (img of product()!.images; track img) {
+            <img
+              [src]="img"
+              [alt]="product()!.name"
+              class="thumb"
+              [class.active]="selectedImage() === img"
+              (click)="selectImage(img)"
+            />
+          }
+        </div>
+      </div>
+
+      <!-- Info -->
+      <div class="product-info">
+        <div class="badges">
+          @if (product()!.freeShipping) {
+            <span class="badge free-shipping">
+              <mat-icon>local_shipping</mat-icon> Frete grátis
+            </span>
+          }
+          @if (product()!.stock < 10) {
+            <span class="badge low-stock">
+              <mat-icon>warning</mat-icon> Últimas {{ product()!.stock }} unidades
+            </span>
+          }
+        </div>
+
+        <h1 class="product-title">{{ product()!.name }}</h1>
+
+        <div class="rating-row">
+          @for (star of stars; track star) {
+            <mat-icon class="star" [class.filled]="star <= product()!.rating">
+              {{ star <= product()!.rating ? 'star' : (star - product()!.rating < 1 ? 'star_half' : 'star_border') }}
+            </mat-icon>
+          }
+          <span class="rating-value">{{ product()!.rating }}</span>
+          <span class="review-count">({{ product()!.reviewCount }} avaliações)</span>
+        </div>
+
+        <mat-divider></mat-divider>
+
+        <div class="pricing">
+          @if (product()!.originalPrice > product()!.price) {
+            <div class="original-price">
+              De {{ product()!.originalPrice | currency:'BRL':'symbol':'1.2-2':'pt-BR' }}
+            </div>
+          }
+          <div class="current-price">
+            {{ product()!.price | currency:'BRL':'symbol':'1.2-2':'pt-BR' }}
+          </div>
+          <div class="installments">
+            Em 12x de {{ (product()!.price / 12) | currency:'BRL':'symbol':'1.2-2':'pt-BR' }} sem juros
+          </div>
+        </div>
+
+        <mat-divider></mat-divider>
+
+        <!-- Quantidade -->
+        <div class="quantity-section">
+          <span class="qty-label">Quantidade:</span>
+          <div class="qty-control">
+            <button mat-icon-button (click)="decreaseQty()" [disabled]="quantity() <= 1">
+              <mat-icon>remove</mat-icon>
+            </button>
+            <span class="qty-value">{{ quantity() }}</span>
+            <button mat-icon-button (click)="increaseQty()" [disabled]="quantity() >= product()!.stock">
+              <mat-icon>add</mat-icon>
+            </button>
+          </div>
+          <span class="stock-info">{{ product()!.stock }} disponíveis</span>
+        </div>
+
+        <!-- Botões de ação -->
+        <div class="action-buttons">
+          <button mat-flat-button color="primary" class="action-btn primary-btn" (click)="addToCart()">
+            <mat-icon>add_shopping_cart</mat-icon>
+            Adicionar ao carrinho
+          </button>
+          <button mat-flat-button class="action-btn buy-btn" routerLink="/carrinho" (click)="addToCart()">
+            <mat-icon>bolt</mat-icon>
+            Comprar agora
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Descrição + Especificações -->
+    <div class="extra-info">
+      <div class="description-card">
+        <h2>Descrição do produto</h2>
+        <p>{{ product()!.description }}</p>
+      </div>
+
+      <div class="specs-card">
+        <h2>Especificações técnicas</h2>
+        <table class="specs-table">
+          @for (spec of specEntries; track spec.key) {
+            <tr>
+              <td class="spec-key">{{ spec.key }}</td>
+              <td class="spec-value">{{ spec.value }}</td>
+            </tr>
+          }
+        </table>
+      </div>
+    </div>
+  </div>
+} @else {
+  <div class="not-found">
+    <mat-icon>error_outline</mat-icon>
+    <h2>Produto não encontrado</h2>
+    <button mat-flat-button color="primary" routerLink="/produtos">Ver produtos</button>
+  </div>
+}

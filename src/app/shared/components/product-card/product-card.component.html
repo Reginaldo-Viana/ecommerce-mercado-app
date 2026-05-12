@@ -1,0 +1,44 @@
+<a [routerLink]="['/produto', product().id]" class="card-link">
+  <mat-card class="product-card">
+    @if (product().freeShipping) {
+      <div class="free-shipping-badge">Frete grátis</div>
+    }
+    @if (product().discount > 0) {
+      <div class="discount-badge">-{{ product().discount }}%</div>
+    }
+
+    <div class="card-image-wrapper">
+      <img [src]="product().image" [alt]="product().name" class="card-image" />
+    </div>
+
+    <mat-card-content class="card-content">
+      <p class="product-name">{{ product().name }}</p>
+
+      <div class="price-block">
+        @if (product().originalPrice > product().price) {
+          <span class="original-price">{{ product().originalPrice | currency:'BRL':'symbol':'1.2-2':'pt-BR' }}</span>
+        }
+        <span class="current-price">{{ product().price | currency:'BRL':'symbol':'1.2-2':'pt-BR' }}</span>
+      </div>
+
+      <div class="installments">
+        em 12x de {{ (product().price / 12) | currency:'BRL':'symbol':'1.2-2':'pt-BR' }} sem juros
+      </div>
+
+      <div class="rating">
+        @for (star of stars; track star) {
+          <mat-icon class="star" [class.filled]="star <= product().rating">
+            {{ star <= product().rating ? 'star' : (star - product().rating < 1 ? 'star_half' : 'star_border') }}
+          </mat-icon>
+        }
+        <span class="review-count">({{ product().reviewCount }})</span>
+      </div>
+    </mat-card-content>
+
+    <mat-card-actions>
+      <button mat-flat-button color="primary" class="add-btn" (click)="addToCart($event)">
+        Adicionar ao carrinho
+      </button>
+    </mat-card-actions>
+  </mat-card>
+</a>

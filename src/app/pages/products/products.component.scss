@@ -1,0 +1,87 @@
+:host {
+  display: block;
+}
+
+.products-page {
+  padding: 24px;
+  min-height: calc(100vh - 64px);
+  background: #f5f5f5;
+}
+
+.page-header {
+  margin-bottom: 16px;
+
+  .page-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin: 0 0 4px;
+    color: #1a1a1a;
+  }
+
+  .result-count {
+    font-size: 13px;
+    color: #666;
+  }
+}
+
+.category-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+
+  .chip {
+    padding: 6px 18px;
+    border-radius: 20px;
+    border: 1px solid #d0d0d0;
+    background: white;
+    font-size: 13px;
+    font-weight: 500;
+    color: #333;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+
+    &:hover {
+      border-color: #3483fa;
+      color: #3483fa;
+    }
+
+    &.active {
+      background: #3483fa;
+      border-color: #3483fa;
+      color: white;
+    }
+  }
+}
+
+.category-block {
+  margin-bottom: 40px;
+}
+
+.category-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #3483fa;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.empty-state {
+  display: flex;
+  justify-content: center;
+  padding: 80px 16px;
+  color: #999;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 768px) {
+  .products-page { padding: 16px; }
+  .products-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+}

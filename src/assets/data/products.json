@@ -1,0 +1,1706 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Samsung Galaxy S10 128GB",
+    "category": "eletronicos",
+    "price": 1499.99,
+    "originalPrice": 1899.99,
+    "discount": 21,
+    "rating": 4.5,
+    "reviewCount": 342,
+    "image": "assets/images/products/p1.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/3.webp"
+    ],
+    "description": "Smartphone Samsung Galaxy S10 com tela Super AMOLED de 6.1 polegadas, câmera tripla de 12MP, processador Exynos e bateria de 3400mAh com carregamento rápido.",
+    "specs": {
+      "Tela": "6.1\" Super AMOLED FHD+",
+      "Processador": "Exynos 9820 Octa-core",
+      "RAM": "8GB",
+      "Armazenamento": "128GB",
+      "Câmera Principal": "12MP + 12MP + 16MP",
+      "Câmera Frontal": "10MP",
+      "Bateria": "3400mAh",
+      "Conectividade": "4G LTE, Wi-Fi 6, Bluetooth 5.0",
+      "Sistema": "Android 10"
+    },
+    "freeShipping": true,
+    "stock": 15,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 2,
+    "name": "Notebook Lenovo Yoga 920 Core i7 16GB",
+    "category": "eletronicos",
+    "price": 4299.99,
+    "originalPrice": 5499.99,
+    "discount": 22,
+    "rating": 4.6,
+    "reviewCount": 218,
+    "image": "assets/images/products/p2.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/2.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/3.webp"
+    ],
+    "description": "Notebook Lenovo Yoga 920 2-em-1 com processador Intel Core i7, 16GB RAM, SSD 512GB, tela Full HD touch de 13.9 polegadas e caneta ativa.",
+    "specs": {
+      "Processador": "Intel Core i7-8550U",
+      "RAM": "16GB DDR4",
+      "Armazenamento": "512GB SSD NVMe",
+      "Tela": "13.9\" Full HD IPS Touch",
+      "Placa de Vídeo": "Intel UHD 620",
+      "Bateria": "72Wh",
+      "Sistema": "Windows 11 Home",
+      "Peso": "1.37kg"
+    },
+    "freeShipping": true,
+    "stock": 8,
+    "featured": true,
+    "offer": true
+  },
+  {
+    "id": 3,
+    "name": "Fone de Ouvido Apple AirPods Max Silver",
+    "category": "eletronicos",
+    "price": 3499.99,
+    "originalPrice": 4299.99,
+    "discount": 19,
+    "rating": 4.8,
+    "reviewCount": 567,
+    "image": "assets/images/products/p3.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/2.webp"
+    ],
+    "description": "Fone de ouvido over-ear Apple AirPods Max com cancelamento ativo de ruído, modo de transparência, áudio espacial e autonomia de 20 horas.",
+    "specs": {
+      "Tipo": "Over-ear",
+      "Conectividade": "Bluetooth 5.0",
+      "Cancelamento de Ruído": "Ativo (ANC)",
+      "Autonomia": "20 horas",
+      "Chip": "Apple H1",
+      "Áudio": "Espacial com rastreamento de cabeça",
+      "Peso": "385g"
+    },
+    "freeShipping": true,
+    "stock": 23,
+    "featured": true,
+    "offer": true
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro 14\" M3 Pro 18GB 512GB",
+    "category": "eletronicos",
+    "price": 14999.99,
+    "originalPrice": 17999.99,
+    "discount": 17,
+    "rating": 4.9,
+    "reviewCount": 189,
+    "image": "assets/images/products/p4.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp"
+    ],
+    "description": "MacBook Pro 14 polegadas com chip M3 Pro, tela Liquid Retina XDR, até 22 horas de bateria, HDMI, SD card e MagSafe 3.",
+    "specs": {
+      "Chip": "Apple M3 Pro",
+      "RAM": "18GB",
+      "Armazenamento": "512GB SSD",
+      "Tela": "14.2\" Liquid Retina XDR",
+      "Câmera": "1080p FaceTime HD",
+      "Bateria": "até 22 horas",
+      "Conectores": "MagSafe 3, Thunderbolt 4, HDMI, SD",
+      "Sistema": "macOS"
+    },
+    "freeShipping": true,
+    "stock": 5,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 5,
+    "name": "Tablet Samsung Galaxy Tab S8+ 128GB Wi-Fi",
+    "category": "eletronicos",
+    "price": 3299.99,
+    "originalPrice": 4199.99,
+    "discount": 21,
+    "rating": 4.7,
+    "reviewCount": 143,
+    "image": "assets/images/products/p5.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/2.webp"
+    ],
+    "description": "Tablet Samsung Galaxy Tab S8+ com tela Super AMOLED de 12.4 polegadas, processador Snapdragon 8 Gen 1, 8GB RAM e suporte à S Pen.",
+    "specs": {
+      "Tela": "12.4\" Super AMOLED",
+      "Processador": "Snapdragon 8 Gen 1",
+      "RAM": "8GB",
+      "Armazenamento": "128GB",
+      "Câmera": "13MP + 6MP traseira / 12MP frontal",
+      "Bateria": "10090mAh",
+      "Sistema": "Android 12"
+    },
+    "freeShipping": true,
+    "stock": 12,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 6,
+    "name": "Câmera de Segurança Wi-Fi Full HD 1080p",
+    "category": "eletronicos",
+    "price": 149.99,
+    "originalPrice": 219.99,
+    "discount": 32,
+    "rating": 4.3,
+    "reviewCount": 876,
+    "image": "assets/images/products/p6.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/2.webp"
+    ],
+    "description": "Câmera de segurança IP Wi-Fi Full HD 1080p com visão noturna 10m, detecção de movimento por IA, áudio bidirecional e gravação em nuvem.",
+    "specs": {
+      "Resolução": "Full HD 1080p",
+      "Wi-Fi": "2.4GHz",
+      "Visão Noturna": "10 metros",
+      "Detecção": "Movimento por IA",
+      "Áudio": "Bidirecional",
+      "Armazenamento": "MicroSD até 128GB / Nuvem",
+      "Compatível": "iOS, Android, Alexa"
+    },
+    "freeShipping": false,
+    "stock": 3,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 7,
+    "name": "Camiseta Masculina Básica Algodão Premium",
+    "category": "moda",
+    "price": 49.99,
+    "originalPrice": 79.99,
+    "discount": 37,
+    "rating": 4.4,
+    "reviewCount": 892,
+    "image": "assets/images/products/p7.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/3.webp"
+    ],
+    "description": "Camiseta masculina de algodão 100% Premium, com modelagem regular fit, ótimo caimento e durabilidade. Disponível nas cores branco, preto, cinza e azul.",
+    "specs": {
+      "Material": "100% Algodão Premium",
+      "Modelagem": "Regular Fit",
+      "Manga": "Curta",
+      "Gola": "Careca",
+      "Tamanhos": "P, M, G, GG, XGG",
+      "Lavagem": "Máquina de lavar"
+    },
+    "freeShipping": false,
+    "stock": 150,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 8,
+    "name": "Tênis Nike Air Jordan 1 Masculino",
+    "category": "moda",
+    "price": 899.99,
+    "originalPrice": 1199.99,
+    "discount": 25,
+    "rating": 4.7,
+    "reviewCount": 1204,
+    "image": "assets/images/products/p8.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp"
+    ],
+    "description": "Tênis Nike Air Jordan 1 com cabedal de couro, amortecimento Air-Sole, solado de borracha e o icônico design de asa. Edição Red & Black.",
+    "specs": {
+      "Cabedal": "Couro legítimo",
+      "Amortecimento": "Air-Sole",
+      "Solado": "Borracha",
+      "Forro": "Têxtil",
+      "Numeração": "38 ao 47",
+      "Peso": "400g (par, tamanho 42)"
+    },
+    "freeShipping": true,
+    "stock": 45,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 9,
+    "name": "Vestido Feminino Elegante Pea Dress",
+    "category": "moda",
+    "price": 219.99,
+    "originalPrice": 319.99,
+    "discount": 31,
+    "rating": 4.5,
+    "reviewCount": 445,
+    "image": "assets/images/products/p9.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/2.webp"
+    ],
+    "description": "Vestido feminino elegante com tecido de alta qualidade, modelagem que valoriza a silhueta, ideal para eventos sociais e trabalho.",
+    "specs": {
+      "Material": "Poliéster + Elastano",
+      "Comprimento": "Midi",
+      "Decote": "Redondo",
+      "Tamanhos": "PP, P, M, G, GG",
+      "Lavagem": "A mão ou delicada",
+      "Indicado para": "Eventos, Trabalho"
+    },
+    "freeShipping": false,
+    "stock": 67,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 10,
+    "name": "Camisa Xadrez Masculina Slim Fit",
+    "category": "moda",
+    "price": 119.99,
+    "originalPrice": 179.99,
+    "discount": 33,
+    "rating": 4.3,
+    "reviewCount": 321,
+    "image": "assets/images/products/p10.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp"
+    ],
+    "description": "Camisa xadrez masculina slim fit em tecido de algodão misto, caimento moderno, ideal para uso casual e semi-formal.",
+    "specs": {
+      "Material": "65% Algodão / 35% Poliéster",
+      "Modelagem": "Slim Fit",
+      "Manga": "Longa",
+      "Estampa": "Xadrez",
+      "Tamanhos": "P, M, G, GG",
+      "Lavagem": "Máquina de lavar"
+    },
+    "freeShipping": true,
+    "stock": 30,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 11,
+    "name": "Bolsa Feminina Prada Couro Premium",
+    "category": "moda",
+    "price": 849.99,
+    "originalPrice": 1199.99,
+    "discount": 29,
+    "rating": 4.8,
+    "reviewCount": 678,
+    "image": "assets/images/products/p11.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/2.webp"
+    ],
+    "description": "Bolsa feminina estilo Prada em couro sintético premium, com compartimento principal com zíper, bolso frontal e alça ajustável. Design sofisticado.",
+    "specs": {
+      "Material": "Couro sintético premium",
+      "Tipo": "Tote",
+      "Fechamento": "Zíper + magnético",
+      "Alça": "Ajustável e removível",
+      "Dimensões": "30x22x12cm",
+      "Cores": "Preto, Caramelo, Bordô"
+    },
+    "freeShipping": false,
+    "stock": 55,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 12,
+    "name": "Apple Watch Series 4 Gold 44mm",
+    "category": "eletronicos",
+    "price": 1899.99,
+    "originalPrice": 2499.99,
+    "discount": 24,
+    "rating": 4.6,
+    "reviewCount": 1567,
+    "image": "assets/images/products/p12.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/2.webp"
+    ],
+    "description": "Apple Watch Series 4 Gold 44mm com tela OLED always-on, GPS, monitoramento de frequência cardíaca, ECG e resistência à água 50m.",
+    "specs": {
+      "Tela": "44mm OLED Retina",
+      "GPS": "Sim",
+      "Sensores": "Frequência cardíaca, ECG, SpO2",
+      "Autonomia": "18 horas",
+      "À prova d'água": "50m",
+      "Conectividade": "Bluetooth 5.0, Wi-Fi",
+      "Compatibilidade": "iPhone 6s ou superior"
+    },
+    "freeShipping": true,
+    "stock": 89,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 13,
+    "name": "Sofá Annibale Colombo 3 Lugares Premium",
+    "category": "casa",
+    "price": 4999.99,
+    "originalPrice": 6999.99,
+    "discount": 29,
+    "rating": 4.7,
+    "reviewCount": 234,
+    "image": "assets/images/products/p13.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp"
+    ],
+    "description": "Sofá 3 lugares linha premium Annibale Colombo em tecido de alta qualidade, estrutura em madeira maciça e espuma de alta densidade D-33.",
+    "specs": {
+      "Lugares": "3",
+      "Tecido": "Veludo premium antimancha",
+      "Estrutura": "Madeira eucalipto",
+      "Espuma": "D-33 alta densidade",
+      "Dimensões": "220x90x95cm",
+      "Cores": "Cinza, Bege, Azul"
+    },
+    "freeShipping": true,
+    "stock": 7,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 14,
+    "name": "Panela de Pressão Elétrica Digital 6L",
+    "category": "casa",
+    "price": 299.99,
+    "originalPrice": 449.99,
+    "discount": 33,
+    "rating": 4.5,
+    "reviewCount": 1123,
+    "image": "assets/images/products/p14.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/2.webp"
+    ],
+    "description": "Panela de pressão elétrica digital com 12 programas, 6L de capacidade, timer e função manter aquecido.",
+    "specs": {
+      "Capacidade": "6 litros",
+      "Programas": "12 funções",
+      "Potência": "1000W",
+      "Timer": "Sim (até 99h)",
+      "Revestimento": "Antiaderente",
+      "Tensão": "110V/220V"
+    },
+    "freeShipping": true,
+    "stock": 34,
+    "featured": true,
+    "offer": true
+  },
+  {
+    "id": 15,
+    "name": "Jogo de Lençol Queen 500 Fios 4 Peças",
+    "category": "casa",
+    "price": 189.99,
+    "originalPrice": 279.99,
+    "discount": 32,
+    "rating": 4.6,
+    "reviewCount": 445,
+    "image": "assets/images/products/p15.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp"
+    ],
+    "description": "Jogo de lençol queen size com 500 fios 100% algodão egípcio, 4 peças: lençol de cima, lençol de baixo com elástico, 2 fronhas.",
+    "specs": {
+      "Tamanho": "Queen (1,58x1,98m)",
+      "Fios": "500 TC",
+      "Material": "100% Algodão Egípcio",
+      "Peças": "4 (lençol cima, baixo, 2 fronhas)",
+      "Lavagem": "Máquina 40°C",
+      "Cores": "Branco, Cinza, Bege, Azul"
+    },
+    "freeShipping": true,
+    "stock": 78,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 16,
+    "name": "Luminária de Mesa LED Table Lamp",
+    "category": "casa",
+    "price": 89.99,
+    "originalPrice": 129.99,
+    "discount": 31,
+    "rating": 4.4,
+    "reviewCount": 567,
+    "image": "assets/images/products/p16.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/2.webp"
+    ],
+    "description": "Luminária de mesa LED dobrável com 3 modos de cor, 5 níveis de brilho, carregador USB integrado e base antiderrapante.",
+    "specs": {
+      "Tipo": "LED",
+      "Modos": "3 cores (quente, neutro, frio)",
+      "Brilho": "5 níveis",
+      "Carregador": "USB-A 5W",
+      "Potência": "9W",
+      "Cor": "Branco/Preto"
+    },
+    "freeShipping": true,
+    "stock": 120,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 17,
+    "name": "Cadeira de Escritório Knoll Ergonômica",
+    "category": "casa",
+    "price": 2499.99,
+    "originalPrice": 3299.99,
+    "discount": 24,
+    "rating": 4.7,
+    "reviewCount": 789,
+    "image": "assets/images/products/p17.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp"
+    ],
+    "description": "Cadeira de escritório Knoll Saarinen Executive ergonômica com suporte lombar ajustável, encosto reclinável e base giratória.",
+    "specs": {
+      "Reclinação": "90° a 135°",
+      "Apoio de Braços": "Ajustável",
+      "Suporte Lombar": "Ajustável",
+      "Base": "Alumínio com rodas PU",
+      "Peso Suportado": "130kg",
+      "Material": "Couro premium",
+      "Garantia": "5 anos"
+    },
+    "freeShipping": true,
+    "stock": 22,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 18,
+    "name": "Moto Esportiva Kawasaki Z800 Réplica Escala",
+    "category": "esportes",
+    "price": 899.99,
+    "originalPrice": 1199.99,
+    "discount": 25,
+    "rating": 4.5,
+    "reviewCount": 312,
+    "image": "assets/images/products/p18.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp",
+      "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/2.webp"
+    ],
+    "description": "Réplica escala 1:12 da Kawasaki Z800, detalhes premium em metal fundido e plástico ABS, ideal para colecionadores e fãs de motos esportivas.",
+    "specs": {
+      "Escala": "1:12",
+      "Material": "Metal fundido + ABS",
+      "Marca Original": "Kawasaki",
+      "Modelo": "Z800",
+      "Dimensões": "18x8x10cm",
+      "Inclui": "Suporte expositivo"
+    },
+    "freeShipping": false,
+    "stock": 10,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 19,
+    "name": "Kit Academia em Casa Halteres 10kg",
+    "category": "esportes",
+    "price": 199.99,
+    "originalPrice": 289.99,
+    "discount": 31,
+    "rating": 4.6,
+    "reviewCount": 654,
+    "image": "assets/images/products/p19.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/2.webp"
+    ],
+    "description": "Kit halteres ajustáveis com suporte, 10kg por halter, revestimento emborrachado, ideal para treinos em casa.",
+    "specs": {
+      "Peso por halter": "10kg",
+      "Ajustável": "Sim (2.5kg, 5kg, 7.5kg, 10kg)",
+      "Revestimento": "Borracha antiderrapante",
+      "Material": "Ferro fundido",
+      "Inclui": "Par de halteres + suporte"
+    },
+    "freeShipping": true,
+    "stock": 40,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 20,
+    "name": "Tênis de Corrida Puma Future Rider",
+    "category": "esportes",
+    "price": 399.99,
+    "originalPrice": 549.99,
+    "discount": 27,
+    "rating": 4.8,
+    "reviewCount": 923,
+    "image": "assets/images/products/p20.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp"
+    ],
+    "description": "Tênis Puma Future Rider com cabedal de couro e mesh, amortecimento IMEVA, sola de borracha e design retrô moderno.",
+    "specs": {
+      "Tipo": "Lifestyle / Corrida",
+      "Cabedal": "Couro + Mesh",
+      "Amortecimento": "IMEVA",
+      "Solado": "Borracha",
+      "Peso": "290g (tamanho 42)",
+      "Numeração": "34 ao 48"
+    },
+    "freeShipping": true,
+    "stock": 18,
+    "featured": true,
+    "offer": true
+  },
+  {
+    "id": 21,
+    "name": "Bola de Tênis Wilson Championship 4 Unidades",
+    "category": "esportes",
+    "price": 49.99,
+    "originalPrice": 79.99,
+    "discount": 37,
+    "rating": 4.5,
+    "reviewCount": 1102,
+    "image": "assets/images/products/p21.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/2.webp"
+    ],
+    "description": "Bola de tênis Wilson Championship com pressurização extra, durabilidade profissional e aprovada pela ITF. Embalagem com 4 unidades.",
+    "specs": {
+      "Quantidade": "4 bolas",
+      "Aprovação": "ITF",
+      "Tipo": "Pressurizada",
+      "Superfície": "Quadra dura e saibro",
+      "Durabilidade": "Alta"
+    },
+    "freeShipping": true,
+    "stock": 200,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 22,
+    "name": "Livro: Clean Code - Robert C. Martin",
+    "category": "livros",
+    "price": 79.99,
+    "originalPrice": 119.99,
+    "discount": 33,
+    "rating": 4.9,
+    "reviewCount": 3421,
+    "image": "assets/images/products/p22.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+    ],
+    "description": "Clean Code: A Handbook of Agile Software Craftsmanship. O livro definitivo sobre como escrever código limpo, organizado e de fácil manutenção.",
+    "specs": {
+      "Autor": "Robert C. Martin",
+      "Editora": "Alta Books",
+      "Páginas": "464",
+      "Idioma": "Português",
+      "Edição": "1ª",
+      "Formato": "Brochura",
+      "ISBN": "9788576085461"
+    },
+    "freeShipping": true,
+    "stock": 500,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 23,
+    "name": "Livro: Pai Rico, Pai Pobre - Robert Kiyosaki",
+    "category": "livros",
+    "price": 49.99,
+    "originalPrice": 74.99,
+    "discount": 33,
+    "rating": 4.7,
+    "reviewCount": 8934,
+    "image": "assets/images/products/p23.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
+    ],
+    "description": "O bestseller mundial que revolucionou a maneira como as pessoas pensam sobre dinheiro e investimentos. Traduzido em mais de 40 idiomas.",
+    "specs": {
+      "Autor": "Robert T. Kiyosaki",
+      "Editora": "Alta Books",
+      "Páginas": "336",
+      "Idioma": "Português",
+      "Formato": "Brochura",
+      "ISBN": "9788550801452"
+    },
+    "freeShipping": true,
+    "stock": 350,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 24,
+    "name": "Kit Skincare Facial Completo 5 Itens",
+    "category": "beleza",
+    "price": 189.99,
+    "originalPrice": 279.99,
+    "discount": 32,
+    "rating": 4.6,
+    "reviewCount": 1234,
+    "image": "assets/images/products/p24.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/2.webp"
+    ],
+    "description": "Kit skincare completo com 5 produtos: espuma de limpeza, tônico, sérum vitamina C, hidratante e protetor solar FPS 50+.",
+    "specs": {
+      "Itens": "5 produtos",
+      "Inclui": "Espuma limpeza, Tônico, Sérum Vit C, Hidratante, FPS 50+",
+      "Tipo de Pele": "Todos os tipos",
+      "Testado Dermatologicamente": "Sim",
+      "Vegano": "Sim",
+      "Cruelty Free": "Sim"
+    },
+    "freeShipping": true,
+    "stock": 88,
+    "featured": true,
+    "offer": true
+  },
+  {
+    "id": 25,
+    "name": "Perfume Chanel Coco Noir EDP 100ml",
+    "category": "beleza",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "discount": 20,
+    "rating": 4.9,
+    "reviewCount": 567,
+    "image": "assets/images/products/p25.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp"
+    ],
+    "description": "Perfume feminino Chanel Coco Noir Eau de Parfum 100ml. Sofisticado e misterioso, com notas de bergamota, rosa e sândalo.",
+    "specs": {
+      "Marca": "Chanel",
+      "Volume": "100ml",
+      "Concentração": "Eau de Parfum",
+      "Família Olfativa": "Oriental Floral",
+      "Notas de Topo": "Bergamota, Toranja",
+      "País": "França"
+    },
+    "freeShipping": true,
+    "stock": 15,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 26,
+    "name": "Secador de Cabelo Philips 2200W Ionic",
+    "category": "beleza",
+    "price": 199.99,
+    "originalPrice": 299.99,
+    "discount": 33,
+    "rating": 4.5,
+    "reviewCount": 2341,
+    "image": "assets/images/products/p26.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/2.webp"
+    ],
+    "description": "Secador de cabelo Philips ThermoProtect Ionic 2200W com tecnologia iônica, 6 combinações de temperatura/velocidade e botão de ar frio.",
+    "specs": {
+      "Potência": "2200W",
+      "Tecnologia": "Ionic + ThermoProtect",
+      "Velocidades": "2",
+      "Temperaturas": "3",
+      "Tensão": "Bivolt automático",
+      "Acessórios": "Bico concentrador",
+      "Garantia": "2 anos"
+    },
+    "freeShipping": true,
+    "stock": 56,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 27,
+    "name": "Smart Speaker Amazon Echo Plus",
+    "category": "eletronicos",
+    "price": 299.99,
+    "originalPrice": 399.99,
+    "discount": 25,
+    "rating": 4.4,
+    "reviewCount": 891,
+    "image": "assets/images/products/p27.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
+    ],
+    "description": "Smart speaker Amazon Echo Plus com Alexa, som premium com woofer de 3\", hub Zigbee integrado e controle de dispositivos inteligentes.",
+    "specs": {
+      "Assistente": "Alexa",
+      "Conectividade": "Wi-Fi Dual Band, Bluetooth 5.0",
+      "Alto-falante": "3\" woofer + tweeter",
+      "Hub": "Zigbee integrado",
+      "Fonte": "30W",
+      "Compatível": "Zigbee, Matter, Sidewalk"
+    },
+    "freeShipping": true,
+    "stock": 42,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 28,
+    "name": "Mochila Feminina Couro Branco Backpack",
+    "category": "esportes",
+    "price": 249.99,
+    "originalPrice": 349.99,
+    "discount": 29,
+    "rating": 4.5,
+    "reviewCount": 456,
+    "image": "assets/images/products/p28.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/2.webp"
+    ],
+    "description": "Mochila feminina em couro sintético branco, compartimento principal com zíper, bolso frontal, alças acolchoadas e fita de fixação para trolley.",
+    "specs": {
+      "Material": "Couro sintético",
+      "Compartimentos": "3",
+      "Compartimento Notebook": "Até 14\"",
+      "Alças": "Acolchoadas ajustáveis",
+      "Cor": "Branco, Preto, Rosa",
+      "Peso": "0.6kg"
+    },
+    "freeShipping": true,
+    "stock": 65,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 29,
+    "name": "Notebook Dell XPS 13 Core i7 16GB 512GB",
+    "category": "eletronicos",
+    "price": 8999.99,
+    "originalPrice": 10999.99,
+    "discount": 18,
+    "rating": 4.9,
+    "reviewCount": 2341,
+    "image": "assets/images/products/p29.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp"
+    ],
+    "description": "Dell XPS 13 9300 com processador Intel Core i7 de 10ª geração, 16GB RAM, SSD 512GB, tela InfinityEdge Full HD+ 13.4 polegadas.",
+    "specs": {
+      "Processador": "Intel Core i7-1065G7",
+      "RAM": "16GB LPDDR4x",
+      "Armazenamento": "512GB SSD PCIe",
+      "Tela": "13.4\" FHD+ InfinityEdge",
+      "Bateria": "52Wh, até 12h",
+      "Sistema": "Windows 11 Home",
+      "Peso": "1.27kg"
+    },
+    "freeShipping": true,
+    "stock": 4,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 30,
+    "name": "Air Fryer Philips Walita 4.1L 1500W",
+    "category": "casa",
+    "price": 449.99,
+    "originalPrice": 649.99,
+    "discount": 31,
+    "rating": 4.7,
+    "reviewCount": 3456,
+    "image": "assets/images/products/p30.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/2.webp"
+    ],
+    "description": "Air Fryer Philips Walita Série 3000 com capacidade de 4.1L, tecnologia Rapid Air, timer de 60 minutos e temperatura ajustável até 200°C.",
+    "specs": {
+      "Capacidade": "4.1 litros",
+      "Potência": "1500W",
+      "Temperatura": "80°C a 200°C",
+      "Timer": "60 minutos",
+      "Tecnologia": "Rapid Air",
+      "Tensão": "220V",
+      "Revestimento": "Antiaderente"
+    },
+    "freeShipping": true,
+    "stock": 28,
+    "featured": true,
+    "offer": true
+  },
+  {
+    "id": 31,
+    "name": "Rack Mesa de Centro para Sala Design Moderno",
+    "category": "casa",
+    "price": 899.99,
+    "originalPrice": 1299.99,
+    "discount": 31,
+    "rating": 4.4,
+    "reviewCount": 567,
+    "image": "assets/images/products/p31.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp"
+    ],
+    "description": "Mesa lateral para sala em madeira maciça com design moderno escandinavo, acabamento encerado e pés metálicos dourados.",
+    "specs": {
+      "Material": "Madeira maciça",
+      "Acabamento": "Encerado natural",
+      "Pés": "Metálicos dourados",
+      "Dimensões": "60x40x45cm",
+      "Peso Suportado": "30kg",
+      "Montagem": "Fácil (parafusos inclusos)"
+    },
+    "freeShipping": true,
+    "stock": 14,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 32,
+    "name": "Enfeite Decorativo para Sala Plant Pot",
+    "category": "casa",
+    "price": 79.99,
+    "originalPrice": 119.99,
+    "discount": 33,
+    "rating": 4.6,
+    "reviewCount": 432,
+    "image": "assets/images/products/p32.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/2.webp"
+    ],
+    "description": "Vaso decorativo para plantas em cerâmica com acabamento matte, base protetora e design minimalista escandinavo. Perfeito para suculentas.",
+    "specs": {
+      "Material": "Cerâmica",
+      "Acabamento": "Matte",
+      "Diâmetro": "15cm",
+      "Altura": "18cm",
+      "Inclui": "Base protetora",
+      "Cores": "Branco, Cinza, Terracota"
+    },
+    "freeShipping": true,
+    "stock": 9,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 33,
+    "name": "Máquina de Café Expresso Nespresso Vertuo",
+    "category": "casa",
+    "price": 599.99,
+    "originalPrice": 849.99,
+    "discount": 29,
+    "rating": 4.8,
+    "reviewCount": 1892,
+    "image": "assets/images/products/p33.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/2.webp"
+    ],
+    "description": "Cafeteira Nespresso Vertuo Pop com tecnologia Centrifusion, 5 tamanhos de xícara, aquecimento em 25 segundos e reservatório 560ml.",
+    "specs": {
+      "Tecnologia": "Centrifusion",
+      "Tamanhos": "5 (Espresso a Alto)",
+      "Aquecimento": "25 segundos",
+      "Reservatório": "560ml",
+      "Cápsula": "Nespresso Vertuo",
+      "Pressão": "19 bar",
+      "Tensão": "220V"
+    },
+    "freeShipping": true,
+    "stock": 25,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 34,
+    "name": "Notebook Asus ZenBook Pro Dual Screen",
+    "category": "eletronicos",
+    "price": 12999.99,
+    "originalPrice": 15999.99,
+    "discount": 19,
+    "rating": 4.7,
+    "reviewCount": 734,
+    "image": "assets/images/products/p34.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp"
+    ],
+    "description": "Asus ZenBook Pro com tela principal OLED 4K e ScreenPad secundário touch, processador Intel Core i9, 32GB RAM e RTX 3050 Ti.",
+    "specs": {
+      "Processador": "Intel Core i9-11900H",
+      "RAM": "32GB DDR4",
+      "Armazenamento": "1TB SSD NVMe",
+      "Tela Principal": "15.6\" OLED 4K Touch",
+      "ScreenPad": "5.65\" Touch",
+      "GPU": "NVIDIA RTX 3050 Ti",
+      "Sistema": "Windows 11 Pro"
+    },
+    "freeShipping": true,
+    "stock": 11,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 35,
+    "name": "iPhone X 256GB Space Grey",
+    "category": "eletronicos",
+    "price": 3499.99,
+    "originalPrice": 4499.99,
+    "discount": 22,
+    "rating": 4.8,
+    "reviewCount": 4521,
+    "image": "assets/images/products/p35.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/3.webp"
+    ],
+    "description": "iPhone X com Face ID, tela Super Retina OLED de 5.8 polegadas, câmera dupla de 12MP com modo retrato e chip A11 Bionic.",
+    "specs": {
+      "Chip": "Apple A11 Bionic",
+      "Tela": "5.8\" Super Retina OLED",
+      "Câmera": "12MP + 12MP",
+      "Frontal": "7MP TrueDepth + Face ID",
+      "Armazenamento": "256GB",
+      "Bateria": "2716mAh",
+      "Conector": "Lightning",
+      "Sistema": "iOS 16"
+    },
+    "freeShipping": true,
+    "stock": 20,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 36,
+    "name": "Headset Beats Flex Wireless Earphones",
+    "category": "eletronicos",
+    "price": 399.99,
+    "originalPrice": 549.99,
+    "discount": 27,
+    "rating": 4.5,
+    "reviewCount": 2134,
+    "image": "assets/images/products/p36.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/2.webp"
+    ],
+    "description": "Beats Flex Wireless Earphones com chip Apple W1, 12 horas de bateria, modo Auto-Play/Pause e cabo magnético.",
+    "specs": {
+      "Tipo": "In-ear",
+      "Conectividade": "Bluetooth 5.0 (chip W1)",
+      "Bateria": "12 horas",
+      "Carga Rápida": "10 min = 1.5 horas",
+      "Microfone": "Embutido",
+      "Compatível": "iOS e Android",
+      "Cabo": "USB-C"
+    },
+    "freeShipping": true,
+    "stock": 45,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 37,
+    "name": "Apple AirPods 3ª Geração com MagSafe",
+    "category": "eletronicos",
+    "price": 1299.99,
+    "originalPrice": 1699.99,
+    "discount": 24,
+    "rating": 4.8,
+    "reviewCount": 5678,
+    "image": "assets/images/products/p37.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp"
+    ],
+    "description": "AirPods 3ª geração com áudio espacial personalizado, resistência à água IPX4, case com carregamento MagSafe e até 30h de bateria total.",
+    "specs": {
+      "Chip": "Apple H1",
+      "Autonomia": "6h (AirPod) + 24h (case) = 30h",
+      "Carga Rápida": "5 min = 1 hora",
+      "Resistência": "IPX4",
+      "Microfone": "Beamforming duplo",
+      "Áudio": "Espacial personalizado",
+      "Compatível": "iPhone 6s ou superior"
+    },
+    "freeShipping": true,
+    "stock": 55,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 38,
+    "name": "Notebook Huawei MateBook X Pro 14\"",
+    "category": "eletronicos",
+    "price": 6999.99,
+    "originalPrice": 8999.99,
+    "discount": 22,
+    "rating": 4.7,
+    "reviewCount": 3421,
+    "image": "assets/images/products/p38.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp"
+    ],
+    "description": "Huawei MateBook X Pro com tela FullView touchscreen 3K de 14.2 polegadas, chip Intel Core i7, 16GB RAM, SSD 1TB e carregamento 90W.",
+    "specs": {
+      "Processador": "Intel Core i7-1260P",
+      "RAM": "16GB LPDDR5",
+      "Armazenamento": "1TB SSD NVMe",
+      "Tela": "14.2\" 3K FullView Touch",
+      "Bateria": "60Wh, até 12h",
+      "Carregamento": "90W SuperCharge",
+      "Peso": "1.38kg"
+    },
+    "freeShipping": true,
+    "stock": 22,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 39,
+    "name": "iPhone 13 Pro 256GB Sierra Blue",
+    "category": "eletronicos",
+    "price": 4999.99,
+    "originalPrice": 6199.99,
+    "discount": 19,
+    "rating": 4.8,
+    "reviewCount": 456,
+    "image": "assets/images/products/p39.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/2.webp"
+    ],
+    "description": "iPhone 13 Pro com chip A15 Bionic, câmera Pro de 48MP, modo ProRAW, tela Super Retina XDR ProMotion de 6.1 polegadas e 5G.",
+    "specs": {
+      "Chip": "Apple A15 Bionic",
+      "Tela": "6.1\" Super Retina XDR ProMotion",
+      "Câmera": "48MP + 12MP + 12MP Telephoto",
+      "Frontal": "12MP TrueDepth",
+      "Armazenamento": "256GB",
+      "Bateria": "3095mAh",
+      "5G": "Sim",
+      "Sistema": "iOS 17"
+    },
+    "freeShipping": true,
+    "stock": 7,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 40,
+    "name": "Carregador Wireless Apple MagSafe 15W",
+    "category": "eletronicos",
+    "price": 249.99,
+    "originalPrice": 349.99,
+    "discount": 29,
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "image": "assets/images/products/p40.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp"
+    ],
+    "description": "Bateria externa MagSafe Apple com acoplamento magnético para iPhone 12/13/14/15, carregamento sem fio até 15W e compatibilidade com Qi.",
+    "specs": {
+      "Capacidade": "1460mAh",
+      "Carregamento": "15W MagSafe",
+      "Compatibilidade": "iPhone 12, 13, 14, 15",
+      "Conector": "Lightning (entrada)",
+      "Certificação": "MFi Apple",
+      "Peso": "108g"
+    },
+    "freeShipping": true,
+    "stock": 33,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 41,
+    "name": "Vestido Azul Feminino Blue Frock",
+    "category": "moda",
+    "price": 179.99,
+    "originalPrice": 259.99,
+    "discount": 31,
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "image": "assets/images/products/p41.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/2.webp"
+    ],
+    "description": "Vestido feminino azul com modelagem solta e confortável, tecido leve e fluido, ideal para o dia a dia e ocasiões casuais.",
+    "specs": {
+      "Material": "Viscose",
+      "Modelagem": "Solta",
+      "Comprimento": "Midi",
+      "Tamanhos": "PP, P, M, G, GG",
+      "Lavagem": "A mão ou delicada",
+      "Ocasião": "Casual, Praia"
+    },
+    "freeShipping": false,
+    "stock": 180,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 42,
+    "name": "Óculos de Sol Clássico Classic Sunglasses",
+    "category": "moda",
+    "price": 299.99,
+    "originalPrice": 449.99,
+    "discount": 33,
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "image": "assets/images/products/p42.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp"
+    ],
+    "description": "Óculos de sol clássico com armação dourada, lentes com proteção UV400, design atemporal e acabamento premium.",
+    "specs": {
+      "Armação": "Metal dourado",
+      "Lentes": "Policarbonato",
+      "Proteção": "UV400 (100% UVA/UVB)",
+      "Polarizado": "Sim",
+      "Inclui": "Case rígido + flanela",
+      "Tamanho": "54mm"
+    },
+    "freeShipping": true,
+    "stock": 28,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 43,
+    "name": "Óculos de Sol Preto Feminino Moderno",
+    "category": "moda",
+    "price": 149.99,
+    "originalPrice": 219.99,
+    "discount": 32,
+    "rating": 4.3,
+    "reviewCount": 432,
+    "image": "assets/images/products/p43.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp"
+    ],
+    "description": "Óculos de sol feminino preto moderno, armação oversized, lentes polarizadas com proteção UV400 e hastes reguláveis.",
+    "specs": {
+      "Armação": "Acetato preto",
+      "Lentes": "Polarizadas",
+      "Proteção": "UV400",
+      "Estilo": "Oversized",
+      "Inclui": "Case soft + flanela"
+    },
+    "freeShipping": false,
+    "stock": 95,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 44,
+    "name": "Livro: Harry Potter e a Pedra Filosofal",
+    "category": "livros",
+    "price": 44.99,
+    "originalPrice": 64.99,
+    "discount": 31,
+    "rating": 4.9,
+    "reviewCount": 12045,
+    "image": "assets/images/products/p44.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
+    ],
+    "description": "Primeira edição especial comemorativa de Harry Potter e a Pedra Filosofal, com capa dura e ilustrações exclusivas de Jim Kay.",
+    "specs": {
+      "Autor": "J.K. Rowling",
+      "Editora": "Rocco",
+      "Páginas": "264",
+      "Idioma": "Português",
+      "Edição": "Comemorativa",
+      "Formato": "Capa dura",
+      "ISBN": "9788532511010"
+    },
+    "freeShipping": true,
+    "stock": 280,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 45,
+    "name": "Livro: O Poder do Subconsciente",
+    "category": "livros",
+    "price": 39.99,
+    "originalPrice": 59.99,
+    "discount": 33,
+    "rating": 4.7,
+    "reviewCount": 6789,
+    "image": "assets/images/products/p45.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+    ],
+    "description": "Clássico da autoajuda por Joseph Murphy. Aprenda a usar o poder do subconsciente para alcançar saúde, riqueza e felicidade.",
+    "specs": {
+      "Autor": "Joseph Murphy",
+      "Editora": "Bestseller",
+      "Páginas": "280",
+      "Idioma": "Português",
+      "Formato": "Brochura",
+      "ISBN": "9788576843146"
+    },
+    "freeShipping": true,
+    "stock": 420,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 46,
+    "name": "Creme Hidratante Corporal Attitude Ekos 400ml",
+    "category": "beleza",
+    "price": 69.99,
+    "originalPrice": 99.99,
+    "discount": 30,
+    "rating": 4.8,
+    "reviewCount": 3421,
+    "image": "assets/images/products/p46.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/2.webp"
+    ],
+    "description": "Creme hidratante corporal Attitude Super Leaves com extratos naturais, fórmula vegana, dermatologicamente testado e embalagem sustentável.",
+    "specs": {
+      "Volume": "400ml",
+      "Ingrediente Ativo": "Extratos naturais",
+      "Vegano": "Sim",
+      "Testado Dermatologicamente": "Sim",
+      "Embalagem": "Reciclável",
+      "Fragância": "Natural"
+    },
+    "freeShipping": false,
+    "stock": 145,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 47,
+    "name": "Paleta de Sombras Eyeshadow com Espelho",
+    "category": "beleza",
+    "price": 179.99,
+    "originalPrice": 249.99,
+    "discount": 28,
+    "rating": 4.6,
+    "reviewCount": 987,
+    "image": "assets/images/products/p47.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/2.webp"
+    ],
+    "description": "Paleta de sombras com 35 cores mattes e shimmer tons neutros e dourados, altamente pigmentadas, com espelho embutido.",
+    "specs": {
+      "Sombras": "35 cores",
+      "Acabamentos": "Matte + Shimmer",
+      "Pigmentação": "Alta",
+      "Espelho": "Sim",
+      "Vegano": "Sim",
+      "Cruelty Free": "Sim"
+    },
+    "freeShipping": true,
+    "stock": 62,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 48,
+    "name": "Garrafa Térmica Alumínio Esportiva 1L",
+    "category": "esportes",
+    "price": 149.99,
+    "originalPrice": 219.99,
+    "discount": 32,
+    "rating": 4.9,
+    "reviewCount": 5432,
+    "image": "assets/images/products/p48.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/2.webp"
+    ],
+    "description": "Garrafa térmica alumínio preto esportiva 1L, mantém bebidas quentes por 12h e frias por 24h, tampa rosca, boca larga e alça lateral.",
+    "specs": {
+      "Capacidade": "1 litro",
+      "Material": "Alumínio",
+      "Quente": "12 horas",
+      "Frio": "24 horas",
+      "BPA Free": "Sim",
+      "Tampa": "Rosca + alça",
+      "Cores": "Preto, Prata, Azul"
+    },
+    "freeShipping": true,
+    "stock": 78,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 49,
+    "name": "Bastão de Selfie Monopod Retrátil",
+    "category": "eletronicos",
+    "price": 49.99,
+    "originalPrice": 79.99,
+    "discount": 37,
+    "rating": 4.5,
+    "reviewCount": 234,
+    "image": "assets/images/products/p49.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/2.webp"
+    ],
+    "description": "Bastão de selfie monopod retrátil extensível até 100cm, com controle Bluetooth, suporte universal e botão obturador.",
+    "specs": {
+      "Comprimento": "20cm a 100cm",
+      "Controle": "Bluetooth 5.0",
+      "Compatibilidade": "iOS e Android",
+      "Suporte": "Universal ajustável",
+      "Bateria": "Recarregável via USB",
+      "Peso": "180g"
+    },
+    "freeShipping": true,
+    "stock": 6,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 50,
+    "name": "Batom Vermelho Longa Duração Red Lipstick",
+    "category": "beleza",
+    "price": 59.99,
+    "originalPrice": 89.99,
+    "discount": 33,
+    "rating": 4.4,
+    "reviewCount": 456,
+    "image": "assets/images/products/p50.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/2.webp"
+    ],
+    "description": "Batom vermelho longa duração com fórmula hidratante, cobertura total em uma passada, resistente à água e ao beijo.",
+    "specs": {
+      "Tom": "Vermelho clássico",
+      "Duração": "16 horas",
+      "Acabamento": "Cremoso acetinado",
+      "Hidratante": "Sim (manteigas vegetais)",
+      "Resistência": "Água e transferência",
+      "Vegano": "Sim"
+    },
+    "freeShipping": true,
+    "stock": 112,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 51,
+    "name": "Relógio Masculino Rolex Submariner",
+    "category": "moda",
+    "price": 4999.99,
+    "originalPrice": 6999.99,
+    "discount": 29,
+    "rating": 4.9,
+    "reviewCount": 643,
+    "image": "assets/images/products/p51.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/2.webp"
+    ],
+    "description": "Relógio masculino inspiração Rolex Submariner automático, caixa de aço inox, pulseira Oyster, vidro safira e resistência à água 300m.",
+    "specs": {
+      "Movimento": "Automático",
+      "Caixa": "Aço inox 40mm",
+      "Vidro": "Safira anti-reflexo",
+      "Pulseira": "Oyster aço inox",
+      "Resistência": "300m",
+      "Luminescência": "Chromalight"
+    },
+    "freeShipping": true,
+    "stock": 22,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 52,
+    "name": "Sapato Feminino Calvin Klein Salto Alto",
+    "category": "moda",
+    "price": 499.99,
+    "originalPrice": 699.99,
+    "discount": 29,
+    "rating": 4.6,
+    "reviewCount": 891,
+    "image": "assets/images/products/p52.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/2.webp"
+    ],
+    "description": "Scarpin Calvin Klein salto stiletto 9cm em couro legítimo, bico fino clássico, forro macio e solado de couro.",
+    "specs": {
+      "Salto": "9cm stiletto",
+      "Material": "Couro legítimo",
+      "Bico": "Fino",
+      "Solado": "Couro + antiderrapante",
+      "Numeração": "33 ao 41",
+      "Cores": "Preto, Nude, Vermelho"
+    },
+    "freeShipping": false,
+    "stock": 110,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 53,
+    "name": "Perfume Masculino Dior J'adore EDP 75ml",
+    "category": "beleza",
+    "price": 649.99,
+    "originalPrice": 849.99,
+    "discount": 24,
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "image": "assets/images/products/p53.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp"
+    ],
+    "description": "Perfume Dior J'adore Eau de Parfum 75ml. Luxuoso e floral, com notas de ylang-ylang, rosa e jasmim. Ícone da feminilidade.",
+    "specs": {
+      "Marca": "Dior",
+      "Volume": "75ml",
+      "Concentração": "Eau de Parfum",
+      "Família Olfativa": "Floral",
+      "Notas de Topo": "Ylang-ylang, Rosa, Jasmim",
+      "País": "França"
+    },
+    "freeShipping": true,
+    "stock": 18,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 54,
+    "name": "Vestido Conjunto Tartan Dress Escocês",
+    "category": "moda",
+    "price": 249.99,
+    "originalPrice": 349.99,
+    "discount": 29,
+    "rating": 4.5,
+    "reviewCount": 765,
+    "image": "assets/images/products/p54.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp",
+      "https://cdn.dummyjson.com/product-images/tops/tartan-dress/2.webp"
+    ],
+    "description": "Vestido tartan (xadrez escocês) feminino em tecido de alta qualidade, modelagem slim, ideal para looks formais e semi-formais.",
+    "specs": {
+      "Material": "Poliéster + Elastano",
+      "Estampa": "Tartan (xadrez escocês)",
+      "Comprimento": "Midi",
+      "Tamanhos": "PP ao GGG",
+      "Lavagem": "Delicado",
+      "Ocasião": "Formal, Semi-formal"
+    },
+    "freeShipping": true,
+    "stock": 85,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 55,
+    "name": "Tênis Nike Baseball Cleats Profissional",
+    "category": "moda",
+    "price": 649.99,
+    "originalPrice": 899.99,
+    "discount": 28,
+    "rating": 4.6,
+    "reviewCount": 432,
+    "image": "assets/images/products/p55.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/2.webp"
+    ],
+    "description": "Chuteira Nike Baseball Cleats profissional com cabedal de couro sintético, travadores moldados para grama natural e sintética.",
+    "specs": {
+      "Material": "Couro sintético",
+      "Travadores": "Moldados",
+      "Superfície": "Grama natural e sintética",
+      "Solado": "TPU reforçado",
+      "Numeração": "38 ao 46",
+      "Peso": "350g (tamanho 42)"
+    },
+    "freeShipping": false,
+    "stock": 38,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 56,
+    "name": "Brinco Feminino Green Crystal Earring",
+    "category": "moda",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "discount": 38,
+    "rating": 4.5,
+    "reviewCount": 1102,
+    "image": "assets/images/products/p56.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/2.webp"
+    ],
+    "description": "Brinco feminino com cristal verde esmeralda, haste folheada a ouro 18K, antialérgico e acabamento artesanal sofisticado.",
+    "specs": {
+      "Material": "Latão folheado ouro 18K",
+      "Pedra": "Cristal verde esmeralda",
+      "Comprimento": "4cm",
+      "Fecho": "Gancho dourado",
+      "Antialérgico": "Sim",
+      "Garantia": "1 ano"
+    },
+    "freeShipping": false,
+    "stock": 200,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 57,
+    "name": "Relógio Feminino Rolex Datejust Gold",
+    "category": "moda",
+    "price": 3999.99,
+    "originalPrice": 5499.99,
+    "discount": 27,
+    "rating": 4.8,
+    "reviewCount": 876,
+    "image": "assets/images/products/p57.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/2.webp"
+    ],
+    "description": "Relógio feminino inspiração Rolex Datejust em ouro e aço, pulseira President, mostrador com diamantes e janela de data.",
+    "specs": {
+      "Movimento": "Automático",
+      "Caixa": "Aço inox + dourado 36mm",
+      "Vidro": "Safira anti-reflexo",
+      "Pulseira": "President dourada",
+      "Resistência": "100m",
+      "Funcionalidades": "Horas, minutos, segundos, data"
+    },
+    "freeShipping": true,
+    "stock": 55,
+    "featured": false,
+    "offer": true
+  },
+  {
+    "id": 58,
+    "name": "Roteador Wi-Fi 6 HomePod Mini Smart Hub",
+    "category": "eletronicos",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "discount": 20,
+    "rating": 4.7,
+    "reviewCount": 534,
+    "image": "assets/images/products/p58.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/2.webp"
+    ],
+    "description": "Apple HomePod Mini em Cosmic Grey com Siri, som imersivo 360°, hub para casa inteligente, Thread e interoperabilidade com Matter.",
+    "specs": {
+      "Assistente": "Siri",
+      "Conectividade": "Wi-Fi 4, Bluetooth 5.0",
+      "Hub": "HomeKit / Thread / Matter",
+      "Processador": "Apple S5",
+      "Entrada": "USB-C",
+      "Peso": "345g",
+      "Cor": "Cinza sideral"
+    },
+    "freeShipping": true,
+    "stock": 30,
+    "featured": false,
+    "offer": false
+  },
+  {
+    "id": 59,
+    "name": "Livro: O Alquimista - Paulo Coelho",
+    "category": "livros",
+    "price": 34.99,
+    "originalPrice": 49.99,
+    "discount": 30,
+    "rating": 4.8,
+    "reviewCount": 15678,
+    "image": "assets/images/products/p59.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
+    ],
+    "description": "O Alquimista de Paulo Coelho, best-seller mundial traduzido em 80 idiomas. Uma jornada de autodescoberta e perseguição dos próprios sonhos.",
+    "specs": {
+      "Autor": "Paulo Coelho",
+      "Editora": "HarperCollins",
+      "Páginas": "208",
+      "Idioma": "Português",
+      "Edição": "Edição comemorativa",
+      "Formato": "Brochura",
+      "ISBN": "9788595086500"
+    },
+    "freeShipping": true,
+    "stock": 600,
+    "featured": true,
+    "offer": false
+  },
+  {
+    "id": 60,
+    "name": "Rímel Máscara Lash Princess Essence",
+    "category": "beleza",
+    "price": 39.99,
+    "originalPrice": 59.99,
+    "discount": 33,
+    "rating": 4.7,
+    "reviewCount": 2134,
+    "image": "assets/images/products/p60.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/2.webp"
+    ],
+    "description": "Rímel Essence Lash Princess volume e curvatura extremos, escova cônica, fórmula buildable com fibras e efeito olhos de boneca.",
+    "specs": {
+      "Tipo": "Volume e Curvatura",
+      "Fórmula": "Com fibras",
+      "Escova": "Cônica",
+      "Resistência": "À prova d'água",
+      "Duração": "24 horas",
+      "Vegano": "Sim"
+    },
+    "freeShipping": false,
+    "stock": 167,
+    "featured": false,
+    "offer": true
+  }
+]

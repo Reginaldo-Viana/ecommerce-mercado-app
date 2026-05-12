@@ -1,0 +1,45 @@
+<div class="products-page">
+  <div class="page-header">
+    <div>
+      <h1 class="page-title">{{ pageTitle() }}</h1>
+      <span class="result-count">{{ totalCount() }} produto{{ totalCount() !== 1 ? 's' : '' }}</span>
+    </div>
+  </div>
+
+  <!-- Filtro de categorias -->
+  <div class="category-chips">
+    <button
+      class="chip"
+      [class.active]="!activeCategory()"
+      (click)="selectCategory(null)">
+      Todos
+    </button>
+    @for (id of allCategoryIds(); track id) {
+      <button
+        class="chip"
+        [class.active]="activeCategory() === id"
+        (click)="selectCategory(id)">
+        {{ categoryName(id) }}
+      </button>
+    }
+  </div>
+
+  @if (categories().length) {
+    @for (category of categories(); track category.id) {
+      <section class="category-block">
+        @if (categories().length > 1) {
+          <h2 class="category-title">{{ category.name }}</h2>
+        }
+        <div class="products-grid">
+          @for (p of category.products; track p.id) {
+            <app-product-card [product]="p" />
+          }
+        </div>
+      </section>
+    }
+  } @else {
+    <div class="empty-state">
+      <p>Nenhum produto encontrado.</p>
+    </div>
+  }
+</div>

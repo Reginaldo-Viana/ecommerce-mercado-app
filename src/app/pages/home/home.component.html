@@ -1,0 +1,72 @@
+<!-- Hero Banner -->
+<section class="hero-banner">
+  <div class="hero-content">
+    <h1>As melhores ofertas estão aqui</h1>
+    <p>Milhares de produtos com frete grátis e parcelamento sem juros</p>
+    <button mat-flat-button color="accent" routerLink="/produtos" class="hero-btn">
+      <mat-icon>explore</mat-icon>
+      Ver todos os produtos
+    </button>
+  </div>
+</section>
+
+<!-- Categories -->
+<section class="section categories-section">
+  <div class="container">
+    <h2 class="section-title">Comprar por categoria</h2>
+    <div class="categories-grid">
+      @for (cat of categories(); track cat.id) {
+        <a [routerLink]="['/produtos']" [queryParams]="{categoria: cat.id}" class="category-chip">
+          <div class="cat-icon" [style.background]="cat.color + '20'" [style.color]="cat.color">
+            <mat-icon>{{ cat.icon }}</mat-icon>
+          </div>
+          <span>{{ cat.name }}</span>
+        </a>
+      }
+    </div>
+  </div>
+</section>
+
+<!-- Ofertas do dia -->
+<section class="section offers-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">
+        <mat-icon class="title-icon" style="color:#ff6600">local_fire_department</mat-icon>
+        Ofertas do dia
+      </h2>
+      <a routerLink="/produtos" [queryParams]="{ofertas: 'true'}" mat-button color="primary">Ver todas</a>
+    </div>
+
+    @if (loading()) {
+      <div class="loading-center">
+        <mat-spinner diameter="48"></mat-spinner>
+      </div>
+    } @else {
+      <div class="products-grid">
+        @for (product of offers(); track product.id) {
+          <app-product-card [product]="product" />
+        }
+      </div>
+    }
+  </div>
+</section>
+
+<!-- Destaques -->
+<section class="section featured-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">
+        <mat-icon class="title-icon" style="color:#3483fa">star</mat-icon>
+        Mais vendidos
+      </h2>
+      <a routerLink="/produtos" mat-button color="primary">Ver todos</a>
+    </div>
+
+    <div class="products-grid">
+      @for (product of featured(); track product.id) {
+        <app-product-card [product]="product" />
+      }
+    </div>
+  </div>
+</section>

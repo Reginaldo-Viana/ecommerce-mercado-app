@@ -1,0 +1,38 @@
+<mat-toolbar class="navbar">
+  <a routerLink="/" class="brand">
+    <mat-icon class="brand-icon">storefront</mat-icon>
+    <span class="brand-name">MercadoApp</span>
+  </a>
+
+  <div class="search-bar">
+    <mat-form-field appearance="outline" class="search-field">
+      <input
+        matInput
+        placeholder="Buscar produtos, marcas e muito mais..."
+        [(ngModel)]="searchQuery"
+        (keydown)="onKeyDown($event)"
+      />
+      <button mat-icon-button matSuffix (click)="search()">
+        <mat-icon>search</mat-icon>
+      </button>
+    </mat-form-field>
+  </div>
+
+  <div class="nav-actions">
+    <button mat-button routerLink="/produtos">
+      <mat-icon>category</mat-icon>
+      <span class="nav-label">Categorias</span>
+    </button>
+
+    <button
+      mat-icon-button
+      routerLink="/carrinho"
+      [matBadge]="cart.count()"
+      matBadgeColor="warn"
+      [matBadgeHidden]="cart.count() === 0"
+      aria-label="Carrinho de compras"
+    >
+      <mat-icon>shopping_cart</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>

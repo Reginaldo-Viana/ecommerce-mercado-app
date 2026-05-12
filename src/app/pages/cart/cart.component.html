@@ -1,0 +1,112 @@
+<div class="cart-page">
+  @if (orderPlaced()) {
+    <!-- Sucesso -->
+    <div class="order-success">
+      <div class="success-icon">
+        <mat-icon>check_circle</mat-icon>
+      </div>
+      <h2>Pedido realizado com sucesso!</h2>
+      <p>Obrigado pela sua compra. Em breve você receberá a confirmação por e-mail.</p>
+      <button mat-flat-button color="primary" routerLink="/">
+        <mat-icon>home</mat-icon>
+        Continuar comprando
+      </button>
+    </div>
+  } @else if (cart.items().length === 0) {
+    <!-- Carrinho vazio -->
+    <div class="empty-cart">
+      <mat-icon>shopping_cart</mat-icon>
+      <h2>Seu carrinho está vazio</h2>
+      <p>Adicione produtos para continuar.</p>
+      <button mat-flat-button color="primary" routerLink="/produtos">
+        <mat-icon>explore</mat-icon>
+        Ver produtos
+      </button>
+    </div>
+  } @else {
+    <h1 class="cart-title">
+      <mat-icon>shopping_cart</mat-icon>
+      Carrinho ({{ cart.count() }} {{ cart.count() === 1 ? 'item' : 'itens' }})
+    </h1>
+
+    <div class="cart-layout">
+      <!-- Itens -->
+      <div class="cart-items">
+        @for (item of cart.items(); track item.product.id) {
+          <div class="cart-item">
+            <a [routerLink]="['/produto', item.product.id]" class="item-image-link">
+              <img [src]="item.product.image" [alt]="item.product.name" class="item-image" />
+            </a>
+
+            <div class="item-details">
+              <a [routerLink]="['/produto', item.product.id]" class="item-name">
+                {{ item.product.name }}
+              </a>
+              @if (item.product.freeShipping) {
+                <span class="free-shipping-tag">
+                  <mat-icon>local_shipping</mat-icon> Frete grátis
+                </span>
+              }
+            </div>
+
+            <div class="item-qty">
+              <button mat-icon-button (click)="updateQty(item.product.id, item.quantity - 1)">
+                <mat-icon>{{ item.quantity === 1 ? 'delete_outline' : 'remove' }}</mat-icon>
+              </button>
+              <span>{{ item.quantity }}</span>
+              <button mat-icon-button (click)="updateQty(item.product.id, item.quantity + 1)" [disabled]="item.quantity >= item.product.stock">
+                <mat-icon>add</mat-icon>
+              </button>
+            </div>
+
+            <div class="item-price">
+              <span class="unit-price">{{ item.product.price | currency:'BRL':'symbol':'1.2-2':'pt-BR' }} un.</span>
+              <span class="subtotal">{{ (item.product.price * item.quantity) | currency:'BRL':'symbol':'1.2-2':'pt-BR' }}</span>
+            </div>
+
+            <button mat-icon-button class="remove-btn" (click)="remove(item.product.id)" aria-label="Remover">
+              <mat-icon>close</mat-icon>
+            </button>
+          </div>
+
+          <mat-divider></mat-divider>
+        }
+      </div>
+
+      <!-- Resumo -->
+      <div class="cart-summary">
+        <h3>Resumo do pedido</h3>
+
+        <div class="summary-row">
+          <span>Subtotal ({{ cart.count() }} itens)</span>
+          <span>{{ cart.total() | currency:'BRL':'symbol':'1.2-2':'pt-BR' }}</span>
+        </div>
+        <div class="summary-row">
+          <span>Frete</span>
+          <span class="free-text">Grátis</span>
+        </div>
+
+        <mat-divider></mat-divider>
+
+        <div class="summary-row total-row">
+          <span>Total</span>
+          <span>{{ cart.total() | currency:'BRL':'symbol':'1.2-2':'pt-BR' }}</span>
+        </div>
+
+        <div class="installments">
+          Em 12x de {{ (cart.total() / 12) | currency:'BRL':'symbol':'1.2-2':'pt-BR' }} sem juros
+        </div>
+
+        <button mat-flat-button color="primary" class="finalize-btn" (click)="finalize()">
+          <mat-icon>lock</mat-icon>
+          Finalizar compra
+        </button>
+
+        <button mat-button routerLink="/produtos" class="continue-btn">
+          <mat-icon>arrow_back</mat-icon>
+          Continuar comprando
+        </button>
+      </div>
+    </div>
+  }
+</div>
