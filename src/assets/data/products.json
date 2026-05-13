@@ -8,7 +8,7 @@
     "discount": 21,
     "rating": 4.5,
     "reviewCount": 342,
-    "image": "assets/images/products/p1.webp",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp",
       "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/2.webp",
@@ -40,7 +40,7 @@
     "discount": 22,
     "rating": 4.6,
     "reviewCount": 218,
-    "image": "assets/images/products/p2.webp",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
       "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/2.webp",
@@ -71,7 +71,7 @@
     "discount": 19,
     "rating": 4.8,
     "reviewCount": 567,
-    "image": "assets/images/products/p3.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/2.webp"
@@ -100,7 +100,7 @@
     "discount": 17,
     "rating": 4.9,
     "reviewCount": 189,
-    "image": "assets/images/products/p4.webp",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
       "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp"
@@ -130,7 +130,7 @@
     "discount": 21,
     "rating": 4.7,
     "reviewCount": 143,
-    "image": "assets/images/products/p5.webp",
+    "image": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
       "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/2.webp"
@@ -159,7 +159,7 @@
     "discount": 32,
     "rating": 4.3,
     "reviewCount": 876,
-    "image": "assets/images/products/p6.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/2.webp"
@@ -188,7 +188,7 @@
     "discount": 37,
     "rating": 4.4,
     "reviewCount": 892,
-    "image": "assets/images/products/p7.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
       "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/2.webp",
@@ -217,7 +217,7 @@
     "discount": 25,
     "rating": 4.7,
     "reviewCount": 1204,
-    "image": "assets/images/products/p8.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
       "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp"
@@ -245,7 +245,7 @@
     "discount": 31,
     "rating": 4.5,
     "reviewCount": 445,
-    "image": "assets/images/products/p9.webp",
+    "image": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
       "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/2.webp"
@@ -273,7 +273,7 @@
     "discount": 33,
     "rating": 4.3,
     "reviewCount": 321,
-    "image": "assets/images/products/p10.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
       "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp"
@@ -301,7 +301,7 @@
     "discount": 29,
     "rating": 4.8,
     "reviewCount": 678,
-    "image": "assets/images/products/p11.webp",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
       "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/2.webp"
@@ -329,7 +329,7 @@
     "discount": 24,
     "rating": 4.6,
     "reviewCount": 1567,
-    "image": "assets/images/products/p12.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/2.webp"
@@ -358,7 +358,7 @@
     "discount": 29,
     "rating": 4.7,
     "reviewCount": 234,
-    "image": "assets/images/products/p13.webp",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
       "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp"
@@ -386,7 +386,7 @@
     "discount": 33,
     "rating": 4.5,
     "reviewCount": 1123,
-    "image": "assets/images/products/p14.webp",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp",
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/2.webp"
@@ -414,7 +414,7 @@
     "discount": 32,
     "rating": 4.6,
     "reviewCount": 445,
-    "image": "assets/images/products/p15.webp",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
       "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp"
@@ -442,7 +442,7 @@
     "discount": 31,
     "rating": 4.4,
     "reviewCount": 567,
-    "image": "assets/images/products/p16.webp",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp",
       "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/2.webp"
@@ -470,7 +470,7 @@
     "discount": 24,
     "rating": 4.7,
     "reviewCount": 789,
-    "image": "assets/images/products/p17.webp",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
       "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp"
@@ -499,7 +499,7 @@
     "discount": 25,
     "rating": 4.5,
     "reviewCount": 312,
-    "image": "assets/images/products/p18.webp",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp",
       "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/2.webp"
@@ -527,7 +527,7 @@
     "discount": 31,
     "rating": 4.6,
     "reviewCount": 654,
-    "image": "assets/images/products/p19.webp",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
       "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/2.webp"
@@ -554,7 +554,7 @@
     "discount": 27,
     "rating": 4.8,
     "reviewCount": 923,
-    "image": "assets/images/products/p20.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
       "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp"
@@ -582,7 +582,7 @@
     "discount": 37,
     "rating": 4.5,
     "reviewCount": 1102,
-    "image": "assets/images/products/p21.webp",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp",
       "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/2.webp"
@@ -609,7 +609,7 @@
     "discount": 33,
     "rating": 4.9,
     "reviewCount": 3421,
-    "image": "assets/images/products/p22.webp",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
     ],
@@ -637,7 +637,7 @@
     "discount": 33,
     "rating": 4.7,
     "reviewCount": 8934,
-    "image": "assets/images/products/p23.webp",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
     ],
@@ -664,7 +664,7 @@
     "discount": 32,
     "rating": 4.6,
     "reviewCount": 1234,
-    "image": "assets/images/products/p24.webp",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
       "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/2.webp"
@@ -692,7 +692,7 @@
     "discount": 20,
     "rating": 4.9,
     "reviewCount": 567,
-    "image": "assets/images/products/p25.webp",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
       "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp"
@@ -720,7 +720,7 @@
     "discount": 33,
     "rating": 4.5,
     "reviewCount": 2341,
-    "image": "assets/images/products/p26.webp",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
       "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/2.webp"
@@ -749,7 +749,7 @@
     "discount": 25,
     "rating": 4.4,
     "reviewCount": 891,
-    "image": "assets/images/products/p27.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
@@ -777,7 +777,7 @@
     "discount": 29,
     "rating": 4.5,
     "reviewCount": 456,
-    "image": "assets/images/products/p28.webp",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
       "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/2.webp"
@@ -805,7 +805,7 @@
     "discount": 18,
     "rating": 4.9,
     "reviewCount": 2341,
-    "image": "assets/images/products/p29.webp",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
       "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp"
@@ -834,7 +834,7 @@
     "discount": 31,
     "rating": 4.7,
     "reviewCount": 3456,
-    "image": "assets/images/products/p30.webp",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/2.webp"
@@ -863,7 +863,7 @@
     "discount": 31,
     "rating": 4.4,
     "reviewCount": 567,
-    "image": "assets/images/products/p31.webp",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
       "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp"
@@ -891,7 +891,7 @@
     "discount": 33,
     "rating": 4.6,
     "reviewCount": 432,
-    "image": "assets/images/products/p32.webp",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
       "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/2.webp"
@@ -919,7 +919,7 @@
     "discount": 29,
     "rating": 4.8,
     "reviewCount": 1892,
-    "image": "assets/images/products/p33.webp",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp",
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/2.webp"
@@ -948,7 +948,7 @@
     "discount": 19,
     "rating": 4.7,
     "reviewCount": 734,
-    "image": "assets/images/products/p34.webp",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
       "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp"
@@ -977,7 +977,7 @@
     "discount": 22,
     "rating": 4.8,
     "reviewCount": 4521,
-    "image": "assets/images/products/p35.webp",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
       "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/2.webp",
@@ -1008,7 +1008,7 @@
     "discount": 27,
     "rating": 4.5,
     "reviewCount": 2134,
-    "image": "assets/images/products/p36.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/2.webp"
@@ -1037,7 +1037,7 @@
     "discount": 24,
     "rating": 4.8,
     "reviewCount": 5678,
-    "image": "assets/images/products/p37.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp"
@@ -1066,7 +1066,7 @@
     "discount": 22,
     "rating": 4.7,
     "reviewCount": 3421,
-    "image": "assets/images/products/p38.webp",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
       "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp"
@@ -1095,7 +1095,7 @@
     "discount": 19,
     "rating": 4.8,
     "reviewCount": 456,
-    "image": "assets/images/products/p39.webp",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
       "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/2.webp"
@@ -1125,7 +1125,7 @@
     "discount": 29,
     "rating": 4.7,
     "reviewCount": 1234,
-    "image": "assets/images/products/p40.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp"
     ],
@@ -1152,7 +1152,7 @@
     "discount": 31,
     "rating": 4.6,
     "reviewCount": 2345,
-    "image": "assets/images/products/p41.webp",
+    "image": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
       "https://cdn.dummyjson.com/product-images/tops/blue-frock/2.webp"
@@ -1180,7 +1180,7 @@
     "discount": 33,
     "rating": 4.8,
     "reviewCount": 1876,
-    "image": "assets/images/products/p42.webp",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
       "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp"
@@ -1208,7 +1208,7 @@
     "discount": 32,
     "rating": 4.3,
     "reviewCount": 432,
-    "image": "assets/images/products/p43.webp",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
       "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp"
@@ -1235,7 +1235,7 @@
     "discount": 31,
     "rating": 4.9,
     "reviewCount": 12045,
-    "image": "assets/images/products/p44.webp",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
     ],
@@ -1263,7 +1263,7 @@
     "discount": 33,
     "rating": 4.7,
     "reviewCount": 6789,
-    "image": "assets/images/products/p45.webp",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
     ],
@@ -1290,7 +1290,7 @@
     "discount": 30,
     "rating": 4.8,
     "reviewCount": 3421,
-    "image": "assets/images/products/p46.webp",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
       "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/2.webp"
@@ -1318,7 +1318,7 @@
     "discount": 28,
     "rating": 4.6,
     "reviewCount": 987,
-    "image": "assets/images/products/p47.webp",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
       "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/2.webp"
@@ -1346,7 +1346,7 @@
     "discount": 32,
     "rating": 4.9,
     "reviewCount": 5432,
-    "image": "assets/images/products/p48.webp",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
       "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/2.webp"
@@ -1375,7 +1375,7 @@
     "discount": 37,
     "rating": 4.5,
     "reviewCount": 234,
-    "image": "assets/images/products/p49.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/2.webp"
@@ -1403,7 +1403,7 @@
     "discount": 33,
     "rating": 4.4,
     "reviewCount": 456,
-    "image": "assets/images/products/p50.webp",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
       "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/2.webp"
@@ -1431,7 +1431,7 @@
     "discount": 29,
     "rating": 4.9,
     "reviewCount": 643,
-    "image": "assets/images/products/p51.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
       "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/2.webp"
@@ -1459,7 +1459,7 @@
     "discount": 29,
     "rating": 4.6,
     "reviewCount": 891,
-    "image": "assets/images/products/p52.webp",
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
       "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/2.webp"
@@ -1487,7 +1487,7 @@
     "discount": 24,
     "rating": 4.8,
     "reviewCount": 1234,
-    "image": "assets/images/products/p53.webp",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
       "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp"
@@ -1515,7 +1515,7 @@
     "discount": 29,
     "rating": 4.5,
     "reviewCount": 765,
-    "image": "assets/images/products/p54.webp",
+    "image": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp",
       "https://cdn.dummyjson.com/product-images/tops/tartan-dress/2.webp"
@@ -1543,7 +1543,7 @@
     "discount": 28,
     "rating": 4.6,
     "reviewCount": 432,
-    "image": "assets/images/products/p55.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
       "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/2.webp"
@@ -1571,7 +1571,7 @@
     "discount": 38,
     "rating": 4.5,
     "reviewCount": 1102,
-    "image": "assets/images/products/p56.webp",
+    "image": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
       "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/2.webp"
@@ -1599,7 +1599,7 @@
     "discount": 27,
     "rating": 4.8,
     "reviewCount": 876,
-    "image": "assets/images/products/p57.webp",
+    "image": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
       "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/2.webp"
@@ -1627,7 +1627,7 @@
     "discount": 20,
     "rating": 4.7,
     "reviewCount": 534,
-    "image": "assets/images/products/p58.webp",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp",
       "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/2.webp"
@@ -1656,7 +1656,7 @@
     "discount": 30,
     "rating": 4.8,
     "reviewCount": 15678,
-    "image": "assets/images/products/p59.webp",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
     ],
@@ -1684,7 +1684,7 @@
     "discount": 33,
     "rating": 4.7,
     "reviewCount": 2134,
-    "image": "assets/images/products/p60.webp",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
     "images": [
       "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
       "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/2.webp"

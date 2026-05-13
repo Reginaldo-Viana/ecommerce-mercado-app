@@ -48,7 +48,7 @@ git push -u origin main
 
 ### 3. Acessar o app
 
-Após o deploy (aprox. 2-3 min): `https://SEU_USUARIO.github.io/ecommerce-digital/`
+Após o deploy (aprox. 2-3 min): `https://SEU_USUARIO.github.io/ecommerce-mercado-app/`
 
 ## Build de produção
 

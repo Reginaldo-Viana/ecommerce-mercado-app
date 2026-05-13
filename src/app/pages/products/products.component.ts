@@ -4,6 +4,7 @@ import { Product } from "../../core/models/product.model";
 import { ProductService } from "../../core/services/product.service";
 import { ProductCardComponent } from "../../shared/components/product-card/product-card.component";
 import { CommonModule } from "@angular/common";
+import { MatIconModule } from "@angular/material/icon";
 
 interface CategoryGroup {
   id: string;
@@ -23,7 +24,7 @@ const CATEGORY_NAMES: Record<string, string> = {
 @Component({
   selector: "app-products",
   standalone: true,
-  imports: [ProductCardComponent, CommonModule],
+  imports: [ProductCardComponent, CommonModule, MatIconModule],
   templateUrl: "./products.component.html",
   styleUrls: ["./products.component.scss"],
 })

@@ -12,14 +12,20 @@
       class="chip"
       [class.active]="!activeCategory()"
       (click)="selectCategory(null)">
-      Todos
+      <div class="category-icon">
+        <mat-icon>grid_view</mat-icon>
+      </div>
+      <span>Todos</span>
     </button>
     @for (id of allCategoryIds(); track id) {
       <button
         class="chip"
         [class.active]="activeCategory() === id"
         (click)="selectCategory(id)">
-        {{ categoryName(id) }}
+        <div class="category-icon">
+          <img [src]="'https://dummyjson.com/image/100?text=' + categoryName(id)" [alt]="id">
+        </div>
+        <span>{{ categoryName(id) }}</span>
       </button>
     }
   </div>
